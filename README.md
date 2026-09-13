@@ -44,11 +44,10 @@ Proyecto backend desarrollado progresivamente durante mi formación. Implementa 
 
 ## 🌐 Mi portafolio
 
-Actualmente estoy desarrollando mi portafolio digital, donde podrás conocer
+Te invito a visitar mi portafolio digital, donde podrás conocer
 más sobre mis proyectos, habilidades y mi proceso de formación como
 desarrolladora Full Stack JavaScript.
-
-🔗 **Portafolio:** Próximamente
+🔗 **Portafolio:** [Ver mi portafolio](https://yamiletcontreras.github.io/portafolio-yamilet/)
 
 ## 📫 Contacto
 
