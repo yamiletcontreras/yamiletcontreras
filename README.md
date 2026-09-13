@@ -44,15 +44,15 @@ Proyecto backend desarrollado progresivamente durante mi formación. Implementa 
 
 ## 🌐 Mi portafolio
 
-Te invito a visitar mi portafolio digital, donde podrás conocer
-más sobre mis proyectos, habilidades y mi proceso de formación como
-desarrolladora Full Stack JavaScript.
+Te invito a conocer mis proyectos, habilidades y mi proceso de formación
+como desarrolladora Full Stack JavaScript.
+
 🔗 **Portafolio:** [Ver mi portafolio](https://yamiletcontreras.github.io/portafolio-yamilet/)
 
 ## 📫 Contacto
 
 Puedes encontrarme en:
 
-📧 [Correo electrónico](mailto:yamilet.contreras.torres@gmail.com)  
+📧 [Correo electrónico](https://mail.google.com/mail/?view=cm&fs=1&to=yamilet.contreras.torres@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/yamilet-contreras-436817272/)  
 💻 [GitHub](https://github.com/yamiletcontreras)
